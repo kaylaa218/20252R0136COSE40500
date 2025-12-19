@@ -2,3 +2,6 @@ print("Hello, World!")
 
 number=[1,2,3,4]
 print(number)
+
+total=sum(number)
+print(total)
