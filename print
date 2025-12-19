@@ -1,4 +1,7 @@
-print("Hello, World!")
+def greet():
+  print("Hello, World!")
+
+greet()
 
 number=[1,2,3,4]
 print(number)
