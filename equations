@@ -9,3 +9,7 @@ if b%2==0:
   print("Even")
 else:
   print("Odd")
+
+while a <= 6:
+  print(a)
+  a += 1
