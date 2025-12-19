@@ -3,3 +3,8 @@ b=6
 print(a+b)
 print(a-b)
 print(a*b)
+
+if b%2==0:
+  print("Even")
+else:
+  print("Odd")
